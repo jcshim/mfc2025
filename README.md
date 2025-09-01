@@ -18,3 +18,13 @@
 
 * **기존 프로젝트 유지·확장 → MFC**
 * **새 프로젝트, 최신 UX 필요 → WinUI 3**
+
+# Windows App SDK와 WinUI3의 관계
+
+## Windows App SDK = “플랫폼 전체”
+→ 앱 라이프사이클, 패키징, API 접근, UI 프레임워크 등 종합 제공
+
+## WinUI 3 = “Windows App SDK 안의 UI 부분”
+→ 화면 구성 및 사용자 인터페이스 담당
+
+즉, **Windows App SDK는 큰 틀(앱 개발 생태계)**이고, WinUI 3는 그 안에 포함된 UI 엔진입니다.
