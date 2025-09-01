@@ -32,4 +32,4 @@
 * **WinRT/UWP 시대 (2012\~2015)**: Windows 8/WinRT, Azure, Roslyn, 크로스 플랫폼
 * **현대 (2017\~2022)**: 클라우드·컨테이너·AI 기반 개발, 64비트 IDE, 최신 C++/ .NET 통합
 
-\*\*시대별 발전 흐름도(“MFC → .NET → WinRT/UWP → Windows App SDK/WinUI 3”)\*\*
+시대별 발전 흐름도(MFC → .NET → WinRT/UWP → Windows App SDK/WinUI 3)
