@@ -1,8 +1,10 @@
-# **MFC**와 **WinUI 3**를 핵심 개념 한 줄 요약
+# **MFC**와 **WinUI 3** 비교
 
 * **MFC**: *네이티브 C++/Win32 래퍼*. 전통적 데스크톱 앱, 메시지 맵과 GDI 중심.
 * **WinUI 3**: *현대 XAML UI + Windows App SDK*. DirectX 기반 렌더링, MVVM 친화, 고DPI·터치·애니메이션 등 최신 UX.
 
+* **MFC** 는 전통적인 Win32 네이티브 GUI 앱을 위한 **프레임워크**
+* Windows App SDK/**WinUI 3**는 최신 XAML 기반 UI 및 데스크톱 앱 **개발 방식**
 ---
 
 ## 큰 그림 비교
