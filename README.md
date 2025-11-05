@@ -1,4 +1,4 @@
-
+## 참고자료("[http://github.com/jcshim/winui3/](https://github.com/jcshim/WinUI3)
 ## 1. MFC 기초 및 환경 설정
 
 * MFC 프로젝트 생성 (Dialog 기반, SDI/MDI 차이 이해)
